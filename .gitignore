@@ -162,12 +162,11 @@ cython_debug/
 
 # Streamlit
 streamlit/
-venv/
+
 __pycache__/
 *.pyc
 # .gitignore
 __pycache__/
-venv/
 *.pyc
 *.pyo
 *.pyd
